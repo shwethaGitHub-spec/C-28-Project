@@ -40,7 +40,7 @@ function draw(){
     Engine.update(engine);
     strokeWeight(4);
     stroke(15);
-    fill("blue");
+    fill("white");
     box1.display();
     //fill("blue");
     box2.display();
